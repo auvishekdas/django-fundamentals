@@ -1,4 +1,4 @@
-# django-fundamentals
+# Django Fundamentals & Core Concepts
 
 This repository contains my daily practice files and projects as I learn Django to build robust web applications.
 
