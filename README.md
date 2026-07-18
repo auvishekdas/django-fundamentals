@@ -9,7 +9,7 @@ This repository contains my daily practice files and projects as I learn Django 
 - **Models:** Working with databases.
 
 ## 📁 File Structure
-- `project1/` — Description of the first project.
+* `Myproject1` — Django Fundamentals: Initialized project structure, configured URL routing, and implemented view logic to handle dynamic request-response cycles.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
