@@ -14,6 +14,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject3` — App Creation & Routing: Created the main app, configured settings, and implemented app-level URL routing.
 * `Myproject4` — Database & Project Structure: Configured core settings, implemented database integration with SQLite, and structured app-level components.
 * `Myproject5` — Portfolio Profile Page: Integrated Django template rendering to display a dynamic user profile page with custom HTML views and configured static structure.
+* `Myproject6` — Bootstrap & Multi-Template Integration: Integrated Bootstrap CSS into Django, created and routed multiple templates (index.html and profile.html), and structured app-level navigation.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
