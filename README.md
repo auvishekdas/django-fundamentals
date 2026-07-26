@@ -16,6 +16,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject5` — Portfolio Profile Page: Integrated Django template rendering to display a dynamic user profile page with custom HTML views and configured static structure.
 * `Myproject6` — Bootstrap & Multi-Template Integration: Integrated Bootstrap CSS into Django, created and routed multiple templates (index.html and profile.html), and structured app-level navigation.
 * `Myproject7` — Template Inheritance: Implemented Django template inheritance and routed multiple pages (index.html, about.html, contact.html, profile.html) using a master layout.
+* `Myproject8` — Template Inclusion & URL Naming: Implemented template inclusion and configured URL pattern names for seamless multi-page navigation.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
