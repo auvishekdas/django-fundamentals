@@ -1,0 +1,16 @@
+{% extends 'layouts.html' %}
+
+{% block title %}
+Home Page
+{% endblock %}
+
+
+{% block content %}
+{% include 'slider.html'%}
+<div class="jumbotron"> 
+ <h2 class="text-center text-danger"> Auvishek Das Home Page</h2>
+ <p>Name: {{name}}</p>
+ <p>Address: {{address}}</p>
+ <p>Phone: {{phone}}</p>
+ </div>
+{% endblock %}
