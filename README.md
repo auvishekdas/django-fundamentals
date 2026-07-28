@@ -18,6 +18,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject7` — Template Inheritance: Implemented Django template inheritance and routed multiple pages (index.html, about.html, contact.html, profile.html) using a master layout.
 * `Myproject8` — Template Inclusion & URL Naming: Implemented template inclusion and configured URL pattern names for seamless multi-page navigation.
 * `​Myproject9` — Template Inclusion: Created reusable components (slider.html) and integrated template inclusion within index.html for modular page structuring.
+* `​Myproject10` — Dynamic Data Rendering: Passed context data (dictionary containing name, address, and phone) from views and successfully rendered it dynamically into index.html.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
