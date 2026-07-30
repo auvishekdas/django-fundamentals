@@ -20,6 +20,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `​Myproject9` — Template Inclusion: Created reusable components (slider.html) and integrated template inclusion within index.html for modular page structuring.
 * `​Myproject10` — Dynamic Data Rendering: Passed context data (dictionary containing name, address, and phone) from views and successfully rendered it dynamically into index.html.
 * `​Myproject11` — Django For-Loop Integration: Rendered dynamic list data from views using Django template loops inside index.html.
+* `Myproject12` — Static Files & CSS Integration: Configured Django static files structure (STATICFILES_DIRS), integrated custom CSS (style.css), and linked stylesheets using template static tags.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
