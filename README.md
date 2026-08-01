@@ -22,6 +22,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `​Myproject11` — Django For-Loop Integration: Rendered dynamic list data from views using Django template loops inside index.html.
 * `Myproject12` — Static Files & CSS Integration: Configured Django static files structure (STATICFILES_DIRS), integrated custom CSS (style.css), and linked stylesheets using template static tags.
 * `​Myproject13` — Static Files & Assets Integration: Configured Django static directory, integrated custom CSS and JavaScript files, and organized assets structure for the portfolio project.
+* `MyProject14` — Django URL Routing & Static Assets Integration: Configured dynamic URL pattern names in the navigation bar using Django URL tags, linked static banner images inside assets/img/, and successfully structured project directories.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
