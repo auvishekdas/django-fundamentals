@@ -24,6 +24,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `​Myproject13` — Static Files & Assets Integration: Configured Django static directory, integrated custom CSS and JavaScript files, and organized assets structure for the portfolio project.
 * `MyProject14` — Django URL Routing & Static Assets Integration: Configured dynamic URL pattern names in the navigation bar using Django URL tags, linked static banner images inside assets/img/, and successfully structured project directories.
 * `​MyProject15` — Django Database Migration & Superuser Configuration: Configured database tables using Django migrations and successfully created a Django superuser to access and manage the admin panel (/admin/).
+* `MyProject16` — Django Multi-App URL Routing & Modular Views: Configured multiple independent Django apps (index and main) using project-level include() and organized separate urls.py with app-level view routing for structured project scaling.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
