@@ -26,6 +26,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `​Myproject15` — Django Database Migration & Superuser Configuration: Configured database tables using Django migrations and successfully created a Django superuser to access and manage the admin panel (/admin/).
 * `Myproject16` — Django Multi-App URL Routing & Modular Views: Configured multiple independent Django apps (index and main) using project-level include() and organized separate urls.py with app-level view routing for structured project scaling.
 * `Myproject17` — Django Models & Pillow Integration: Created the about model with fields (CharField, TextField, ImageField) in models.py and installed Pillow for image handling.
+* `Myproject18` — Django Database Migrations & Portfolio Integration: Created and applied database migrations (0001_initial) for the index app and integrated portfolio templates.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
