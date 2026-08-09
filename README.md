@@ -29,6 +29,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject18` — Django Database Migrations & Portfolio Integration: Created and applied database migrations (0001_initial) for the index app and integrated portfolio templates.
 * `Myproject19` — Django Admin Model & Media Management: Registered the About model in admin, implemented the __str__ method for string representation, and managed dynamic media/image uploads successfully.
 * `Myproject20` — Django Media & Static Assets Configuration: Configured MEDIA_URL and MEDIA_ROOT in settings, integrated static file routing in urls.py, and successfully tested dynamic image uploads via the Django admin panel.
+* `Myproject21` — Template & Dynamic Data Integration: Successfully integrated Django template tags to display dynamic database records (titles, descriptions, and media images) on the frontend interface.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
