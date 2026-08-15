@@ -31,6 +31,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject20` — Django Media & Static Assets Configuration: Configured MEDIA_URL and MEDIA_ROOT in settings, integrated static file routing in urls.py, and successfully tested dynamic image uploads via the Django admin panel.
 * `Myproject21` — Template & Dynamic Data Integration: Successfully integrated Django template tags to display dynamic database records (titles, descriptions, and media images) on the frontend interface.
 * `​Myproject22` — Django Dynamic Slider & Admin Integration: Configured dynamic database models and image rendering for portfolio sliders through the Django admin panel.
+* `Myproject23` — Client & Portfolio Management: Integrated database models and admin configuration for managing client profiles, portfolios, and dynamic media securely.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
