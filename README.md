@@ -32,6 +32,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject21` — Template & Dynamic Data Integration: Successfully integrated Django template tags to display dynamic database records (titles, descriptions, and media images) on the frontend interface.
 * `​Myproject22` — Django Dynamic Slider & Admin Integration: Configured dynamic database models and image rendering for portfolio sliders through the Django admin panel.
 * `Myproject23` — Client & Portfolio Management: Integrated database models and admin configuration for managing client profiles, portfolios, and dynamic media securely.
+* `Myproject24` — Django Contact Page & Template Integration: Integrated a custom Bootstrap contact form template with interactive map background into the Django frontend using template inheritance.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
