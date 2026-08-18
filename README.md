@@ -34,6 +34,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject23` — Client & Portfolio Management: Integrated database models and admin configuration for managing client profiles, portfolios, and dynamic media securely.
 * `Myproject24` — Django Contact Page & Template Integration: Integrated a custom Bootstrap contact form template with interactive map background into the Django frontend using template inheritance.
 * `Myproject25` — Django Contact Database Integration: Successfully integrated database models and views to handle dynamic POST requests from the contact form, storing user submissions directly into the Django admin backend.
+* `​Myproject26` — Django Authentication & Template Routing: Implemented custom Django authentication views for user login/registration, configured global template directories, and successfully resolved layout and section dependencies for the portfolio.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
