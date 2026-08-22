@@ -36,6 +36,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `Myproject25` — Django Contact Database Integration: Successfully integrated database models and views to handle dynamic POST requests from the contact form, storing user submissions directly into the Django admin backend.
 * `​Myproject26` — Django Authentication & Template Routing: Implemented custom Django authentication views for user login/registration, configured global template directories, and successfully resolved layout and section dependencies for the portfolio.
 * `​Myproject27` — Django Password Recovery & URL Routing: Implemented a dedicated forgot-password view, configured dynamic template routing, and integrated custom navigation links between the login, registration, and password recovery pages using Django URL tags.
+* `​Myproject28` — Django User Registration: Implemented a custom user registration template with input fields for full name, username, and password, and linked it with the login and password recovery pages using Django URL tags.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
