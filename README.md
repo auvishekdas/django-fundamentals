@@ -37,7 +37,7 @@ This repository contains my daily practice files and projects as I learn Django 
 * `​Myproject26` — Django Authentication & Template Routing: Implemented custom Django authentication views for user login/registration, configured global template directories, and successfully resolved layout and section dependencies for the portfolio.
 * `​Myproject27` — Django Password Recovery & URL Routing: Implemented a dedicated forgot-password view, configured dynamic template routing, and integrated custom navigation links between the login, registration, and password recovery pages using Django URL tags.
 * `​Myproject28` — Django User Registration: Implemented a custom user registration template with input fields for full name, username, and password, and linked it with the login and password recovery pages using Django URL tags.
-* `MyProject29` — Django User Login & Profile Integration: Implemented custom authentication logic using Django's authenticate and login backend functions, configured dynamic routing for secure user login, and created a protected user profile view with a logout mechanism.
+* `Myproject29` — Django User Login & Profile Integration: Implemented custom authentication logic using Django's authenticate and login backend functions, configured dynamic routing for secure user login, and created a protected user profile view with a logout mechanism.
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
