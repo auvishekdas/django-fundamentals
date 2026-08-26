@@ -39,6 +39,8 @@ This repository contains my daily practice files and projects as I learn Django 
 * `​Myproject28` — Django User Registration: Implemented a custom user registration template with input fields for full name, username, and password, and linked it with the login and password recovery pages using Django URL tags.
 * `Myproject29` — Django User Login & Profile Integration: Implemented custom authentication logic using Django's authenticate and login backend functions, configured dynamic routing for secure user login, and created a protected user profile view with a logout mechanism.
 * `Myproject30` — Django User Logout & Session Termination: Implemented a secure logout mechanism using Django's built-in logout function, configured clean URL routing for account termination, and integrated dynamic username rendering inside the user profile view.
+* `* Myproject31` — Django Messages Framework & Bootstrap Alerts: Integrated Django's built-in messaging system to display flash notifications (success/error alerts), configured MESSAGE_TAGS in settings.py to map with Bootstrap alert classes, and handled dynamic feedback for invalid login attempts and successful logout actions.
+
 
 ## 🛠 Environment
 - **IDE:** Visual Studio Code
